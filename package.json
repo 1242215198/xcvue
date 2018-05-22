@@ -29,7 +29,6 @@
     "less-loader": "^4.1.0",
     "mini-css-extract-plugin": "^0.4.0",
     "optimize-css-assets-webpack-plugin": "^4.0.1",
-    "pug": "^2.0.3",
     "style-loader": "^0.21.0",
     "url-loader": "^1.0.1",
     "vue-loader": "^15.1.0",
